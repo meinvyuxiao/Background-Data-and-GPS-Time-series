@@ -10,5 +10,4 @@ The data is processed by the second author of the paper, i.e., Dr.Guoquan Wang f
 2.Data from Annual Tianjin Water Resources Bulletin 
 This folder include the aquifer and precipitation data from the Tianjin Water Resources Bulletin from 2014 to 2021. The groundwater level contour maps in Aquifer 2 and Aquifer 3 and monthly precipitation figures are attached. The color and number on the contour maps show the different groundwater level in each aquifer.
 
-
-2. Annual Tianjin Water Resources Bulletin downloaded (http://swj.tj.gov.cn/zwgk_17147/xzfxxgk/fdzdgknr1/tjxx/) 
+3.Annual Tianjin Water Resources Bulletin downloaded (http://swj.tj.gov.cn/zwgk_17147/xzfxxgk/fdzdgknr1/tjxx/) 
